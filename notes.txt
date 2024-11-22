@@ -1,0 +1,4 @@
+devo fare k fold 
+in un set non incluso al k fold faccio gridsearch 
+
+tutto su modelli non trainati 
