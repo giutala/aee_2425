@@ -1,3 +1,0 @@
-1. da dove abbiamo i dati (granularita, dove, quando, da che sito, con quali features)
-2. data preprocessing: come abbiamo trattato i dati e se ci sono state modificazioni aggiuntive + handling missing values + feature scaling using standard normalization
-3. train and test set (70:30), k fold validation (piccola frase su cos'è) e valutato l'errore sulla varianza su tutti i fold + GRIDSEARCHCV FOR XGBOOST
